@@ -1,0 +1,6 @@
+joblib
+nltk
+scikit-learn
+PyMuPDF
+docx2txt
+streamlit
