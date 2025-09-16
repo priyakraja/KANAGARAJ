@@ -1,6 +1,0 @@
-joblib
-scikit-learn
-ntlk
-PyMuPDF
-docx2txt
-streamlit
